@@ -74,7 +74,7 @@ This page assumes an import like so: `using TaleWorlds.InputSystem;`
         
     } 
   ```
- #### [Notice that one could document the stages of a key using the above 3](#Monitoring-a-key's-state)
+ #### To see how one could document the stages of a key using the above 3 methods: [example](#monitoring-a-keys-state)
  
  ### public static bool Input.IsControlOrShiftNotDown()
   I do not believe there is any other method more self-explanatory than this. Returns true while neither Control or Shift are down.
